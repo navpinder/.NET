@@ -1,0 +1,5 @@
+C:\Users\singh_np\Documents\Visual Studio 2015\Projects\MathLib\MathLib\bin\Debug\MathLib.dll
+C:\Users\singh_np\Documents\Visual Studio 2015\Projects\MathLib\MathLib\bin\Debug\MathLib.pdb
+C:\Users\singh_np\Documents\Visual Studio 2015\Projects\MathLib\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+C:\Users\singh_np\Documents\Visual Studio 2015\Projects\MathLib\MathLib\obj\Debug\MathLib.dll
+C:\Users\singh_np\Documents\Visual Studio 2015\Projects\MathLib\MathLib\obj\Debug\MathLib.pdb
